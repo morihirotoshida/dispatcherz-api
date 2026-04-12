@@ -58,5 +58,5 @@ php artisan migrate
 ```Bash
 php artisan serve
 ```
-📄 ライセンス (License)
+## 📄 ライセンス (License)  
 本ソフトウェアは **BSD-3-Clause License** のもとで公開されています。
